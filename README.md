@@ -1,5 +1,5 @@
 # QuickGPT
-
+ live link : [https://quick-gpt-frontend-green.vercel.app/]
 QuickGPT is a fullstack AI-powered chat and image generation platform built with React (Vite) for the frontend and Express/MongoDB for the backend. It supports user authentication, chat management, AI text/image generation, community image sharing, and credit-based payments via Razorpay.
 
 ---
